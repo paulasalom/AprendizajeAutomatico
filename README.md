@@ -8,7 +8,7 @@ We can install this repository with or without conda.
 
 The first step is to download the repository
 ```
-    https://github.com/paulasalom/AprendizajeAutomatico
+    git@github.com:paulasalom/AprendizajeAutomatico.git
 ```
 
 **Conda**
